@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://mysql-zelak.alwaysdata.net/zelak_streamarr
+    username: zelak_st_ad
+    password: aRbkDC54DPxxxyqQ
+  jpa:
+    hibernate:
+      ddl-auto: update
